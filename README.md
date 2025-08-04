@@ -7,27 +7,27 @@ Select a small project idea of your choice (e.g., to-do list app, quiz system, i
 
 2. **Apply Three Design Patterns:**
 
-  - Choose **three design patterns** from any category:
+    - Choose **three design patterns** from any category:
+    
+      - *Creational* (e.g., Factory, Singleton, Builder)
   
-    - *Creational* (e.g., Factory, Singleton, Builder)
-
-    - *Structural* (e.g., Decorator, Adapter, Composite)
-
-    - *Behavioral* (e.g., Strategy, Observer, Memento, Chain of Responsibility)
-
-  - At least **two patterns must come from different categories.**
+      - *Structural* (e.g., Decorator, Adapter, Composite)
+  
+      - *Behavioral* (e.g., Strategy, Observer, Memento, Chain of Responsibility)
+  
+    - At least **two patterns must come from different categories.**
 
 3. **Pattern Analysis (for each pattern):**
 
-  - What problem does the pattern solve in your system?
-
-  - What is the basic idea behind the pattern?
-
-  - How does the pattern work in your implementation?
-
-  - What is the main advantage of using this pattern?
-
-  - What is the main disadvantage or limitation?
+    - What problem does the pattern solve in your system?
+  
+    - What is the basic idea behind the pattern?
+  
+    - How does the pattern work in your implementation?
+  
+    - What is the main advantage of using this pattern?
+  
+    - What is the main disadvantage or limitation?
 
 UML Diagram:
 Create a UML class diagram illustrating how the three patterns fit into your system.
