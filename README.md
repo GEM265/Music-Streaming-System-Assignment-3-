@@ -3,7 +3,7 @@ Design and implement a small software system of your choice using a combination 
 
 **Tasks:**
 1. **Choose a Software Topic:**
-Select a small project idea of your choice (e.g., to-do list app, quiz system, inventory manager, game, booking system, etc.).
+   Select a small project idea of your choice (e.g., to-do list app, quiz system, inventory manager, game, booking system, etc.).
 
 2. **Apply Three Design Patterns:**
 
