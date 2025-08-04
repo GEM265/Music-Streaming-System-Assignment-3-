@@ -7,13 +7,13 @@ Select a small project idea of your choice (e.g., to-do list app, quiz system, i
 
 2. **Apply Three Design Patterns:**
 
-- Choose **three design patterns** from any category:
+  - Choose **three design patterns** from any category:
+  
+    - * *Creational* * (e.g., Factory, Singleton, Builder)
 
-  - Creational (e.g., Factory, Singleton, Builder)
+    - * *Structural* * (e.g., Decorator, Adapter, Composite)
 
-Structural (e.g., Decorator, Adapter, Composite)
-
-Behavioral (e.g., Strategy, Observer, Memento, Chain of Responsibility)
+    - * *Behavioral* * (e.g., Strategy, Observer, Memento, Chain of Responsibility)
 
 At least two patterns must come from different categories.
 
