@@ -9,7 +9,7 @@ Select a small project idea of your choice (e.g., to-do list app, quiz system, i
 
   - Choose **three design patterns** from any category:
   
-    - * *Creational* * (e.g., Factory, Singleton, Builder)
+    - *Creational* (e.g., Factory, Singleton, Builder)
 
     - * *Structural* * (e.g., Decorator, Adapter, Composite)
 
