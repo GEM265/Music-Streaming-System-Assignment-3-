@@ -11,23 +11,23 @@ Select a small project idea of your choice (e.g., to-do list app, quiz system, i
   
     - *Creational* (e.g., Factory, Singleton, Builder)
 
-    - * *Structural* * (e.g., Decorator, Adapter, Composite)
+    - *Structural* (e.g., Decorator, Adapter, Composite)
 
-    - * *Behavioral* * (e.g., Strategy, Observer, Memento, Chain of Responsibility)
+    - *Behavioral* (e.g., Strategy, Observer, Memento, Chain of Responsibility)
 
-At least two patterns must come from different categories.
+  - At least **two patterns must come from different categories.**
 
-Pattern Analysis (for each pattern):
+3. **Pattern Analysis (for each pattern):**
 
-What problem does the pattern solve in your system?
+  - What problem does the pattern solve in your system?
 
-What is the basic idea behind the pattern?
+  - What is the basic idea behind the pattern?
 
-How does the pattern work in your implementation?
+  - How does the pattern work in your implementation?
 
-What is the main advantage of using this pattern?
+  - What is the main advantage of using this pattern?
 
-What is the main disadvantage or limitation?
+  - What is the main disadvantage or limitation?
 
 UML Diagram:
 Create a UML class diagram illustrating how the three patterns fit into your system.
