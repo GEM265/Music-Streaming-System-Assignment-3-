@@ -2,7 +2,7 @@
 Design and implement a small software system of your choice using a combination of three different design patterns. Your goal is to understand how different design patterns solve common software design problems, and how they can be used effectively in real-world applications.
 
 **Tasks:**
-1. **Choose a Software Topic:**
+1. **Choose a Software Topic:** <br/>
    Select a small project idea of your choice (e.g., to-do list app, quiz system, inventory manager, game, booking system, etc.).
 
 2. **Apply Three Design Patterns:**
