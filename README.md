@@ -29,13 +29,13 @@ Design and implement a small software system of your choice using a combination 
   
     - What is the main disadvantage or limitation?
 
-UML Diagram:
+4. **UML Diagram:**
 Create a UML class diagram illustrating how the three patterns fit into your system.
 
-Working Code:
+5. **Working Code:**
 Submit working, readable, and well-documented code demonstrating the application of all three patterns.
 
-Deliverables:
-A PDF report addressing the five questions above for each of the three patterns and UML class diagram showing the structure and interactions in your system.
+**Deliverables:**
+- A PDF report addressing the five questions above for each of the three patterns and UML class diagram showing the structure and interactions in your system.
 
-Complete working source code.
+- Complete working source code.
